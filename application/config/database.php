@@ -128,9 +128,9 @@ if ($host == 'localhost' || $host == '127.0.0.1') {
     $db['default'] = array(
         'dsn'   => '',
         'hostname' => 'localhost',
-        'username' => 'himansh3_pcf_user',
-        'password' => 'V8fTZt.(]G[K',
-        'database' => 'himansh3_pcf_database',
+        'username' => 'digicode_pcfsoftware',
+        'password' => 'SyFUGsKu]aMB',
+        'database' => 'digicode_pcfsoftware',
         'dbdriver' => 'mysqli',
         'dbprefix' => '',
         'pconnect' => FALSE,
